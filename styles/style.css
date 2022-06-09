@@ -90,7 +90,7 @@ body {
  
     margin-right: auto;
     height: calc(100vh - 101px);
-    background: url(/images/beach.jpeg);
+    background: url(images/beach.jpeg);
     background-size: cover;
 }
 
